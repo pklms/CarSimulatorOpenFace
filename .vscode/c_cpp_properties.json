@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "CarSimulatorEditor Editor Win64 Development (CarSimulator)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator\\.vscode\\compileCommands_CarSimulator.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

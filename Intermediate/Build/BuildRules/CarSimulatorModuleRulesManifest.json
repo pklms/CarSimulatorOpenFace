@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator_OpenFace\\Source\\CarSimulator\\CarSimulator.Build.cs",
+		"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator_OpenFace\\Plugins\\OpenFace\\Source\\OpenFace\\OpenFace.Build.cs",
+		"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator_OpenFace\\Plugins\\OpenFace\\Source\\ThirdParty\\OpenFaceLibrary\\OpenFaceLibrary.Build.cs",
+		"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator_OpenFace\\Source\\CarSimulator.Target.cs",
+		"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator_OpenFace\\Source\\CarSimulatorEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

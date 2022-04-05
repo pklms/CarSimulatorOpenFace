@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CarSimulator",
+			"Path": "C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator_OpenFace\\Source\\CarSimulator.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CarSimulatorEditor",
+			"Path": "C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator_OpenFace\\Source\\CarSimulatorEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

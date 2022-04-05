@@ -1,0 +1,5 @@
+C:\Users\Petr\Documents\Unreal Projects\CarSimulator_OpenFace\Intermediate\Build\Win64\UE4Editor\Development\CarSimulator\Definitions.CarSimulator.h
+C:\Users\Petr\Documents\Unreal Projects\CarSimulator_OpenFace\Source\CarSimulator\CarSimulatorWheelRear.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\PhysXVehicles\Source\PhysXVehicles\Public\VehicleWheel.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Plugins\Runtime\PhysXVehicles\Intermediate\Build\Win64\UE4Editor\Inc\PhysXVehicles\VehicleWheel.generated.h
+C:\Users\Petr\Documents\Unreal Projects\CarSimulator_OpenFace\Intermediate\Build\Win64\UE4Editor\Inc\CarSimulator\CarSimulatorWheelRear.generated.h

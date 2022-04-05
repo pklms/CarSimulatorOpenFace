@@ -1,0 +1,87 @@
+[
+	{
+		"file": "C:\\\\Users\\\\Petr\\\\Documents\\\\Unreal Projects\\\\CarSimulator\\\\Source\\\\CarSimulator\\\\CarSimulator.Build.cs",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator\\.vscode\\compileCommands_CarSimulator\\CarSimulator.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Petr\\\\Documents\\\\Unreal Projects\\\\CarSimulator\\\\Source\\\\CarSimulator\\\\CarSimulator.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator\\.vscode\\compileCommands_CarSimulator\\CarSimulator.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Petr\\\\Documents\\\\Unreal Projects\\\\CarSimulator\\\\Source\\\\CarSimulator\\\\CarSimulator.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator\\.vscode\\compileCommands_CarSimulator\\CarSimulator.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Petr\\\\Documents\\\\Unreal Projects\\\\CarSimulator\\\\Source\\\\CarSimulator\\\\CarSimulatorGameMode.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator\\.vscode\\compileCommands_CarSimulator\\CarSimulator.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Petr\\\\Documents\\\\Unreal Projects\\\\CarSimulator\\\\Source\\\\CarSimulator\\\\CarSimulatorGameMode.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator\\.vscode\\compileCommands_CarSimulator\\CarSimulator.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Petr\\\\Documents\\\\Unreal Projects\\\\CarSimulator\\\\Source\\\\CarSimulator\\\\CarSimulatorHud.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator\\.vscode\\compileCommands_CarSimulator\\CarSimulator.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Petr\\\\Documents\\\\Unreal Projects\\\\CarSimulator\\\\Source\\\\CarSimulator\\\\CarSimulatorHud.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator\\.vscode\\compileCommands_CarSimulator\\CarSimulator.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Petr\\\\Documents\\\\Unreal Projects\\\\CarSimulator\\\\Source\\\\CarSimulator\\\\CarSimulatorPawn.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator\\.vscode\\compileCommands_CarSimulator\\CarSimulator.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Petr\\\\Documents\\\\Unreal Projects\\\\CarSimulator\\\\Source\\\\CarSimulator\\\\CarSimulatorPawn.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator\\.vscode\\compileCommands_CarSimulator\\CarSimulator.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Petr\\\\Documents\\\\Unreal Projects\\\\CarSimulator\\\\Source\\\\CarSimulator\\\\CarSimulatorWheelFront.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator\\.vscode\\compileCommands_CarSimulator\\CarSimulator.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Petr\\\\Documents\\\\Unreal Projects\\\\CarSimulator\\\\Source\\\\CarSimulator\\\\CarSimulatorWheelFront.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator\\.vscode\\compileCommands_CarSimulator\\CarSimulator.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Petr\\\\Documents\\\\Unreal Projects\\\\CarSimulator\\\\Source\\\\CarSimulator\\\\CarSimulatorWheelRear.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator\\.vscode\\compileCommands_CarSimulator\\CarSimulator.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Petr\\\\Documents\\\\Unreal Projects\\\\CarSimulator\\\\Source\\\\CarSimulator\\\\CarSimulatorWheelRear.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator\\.vscode\\compileCommands_CarSimulator\\CarSimulator.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Petr\\\\Documents\\\\Unreal Projects\\\\CarSimulator\\\\Source\\\\CarSimulator\\\\UserBehavior.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator\\.vscode\\compileCommands_CarSimulator\\CarSimulator.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Petr\\\\Documents\\\\Unreal Projects\\\\CarSimulator\\\\Source\\\\CarSimulator\\\\UserBehavior.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator\\.vscode\\compileCommands_CarSimulator\\CarSimulator.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Petr\\\\Documents\\\\Unreal Projects\\\\CarSimulator\\\\Source\\\\CarSimulator\\\\UserBehaviorAnalyzer.cpp",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator\\.vscode\\compileCommands_CarSimulator\\CarSimulator.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	},
+	{
+		"file": "C:\\\\Users\\\\Petr\\\\Documents\\\\Unreal Projects\\\\CarSimulator\\\\Source\\\\CarSimulator\\\\UserBehaviorAnalyzer.h",
+		"command": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\cl.exe @\"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator\\.vscode\\compileCommands_CarSimulator\\CarSimulator.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+	}
+]

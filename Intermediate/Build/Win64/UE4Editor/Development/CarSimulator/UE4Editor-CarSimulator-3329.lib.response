@@ -1,0 +1,26 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CarSimulator-3329.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Petr\Documents\Unreal Projects\CarSimulator - Copy\Intermediate\Build\Win64\CarSimulatorEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Petr\Documents\Unreal Projects\CarSimulator - Copy\Intermediate\Build\Win64\UE4Editor\Development\CarSimulator\CarSimulator.cpp.obj"
+"C:\Users\Petr\Documents\Unreal Projects\CarSimulator - Copy\Intermediate\Build\Win64\UE4Editor\Development\CarSimulator\CarSimulatorGameMode.cpp.obj"
+"C:\Users\Petr\Documents\Unreal Projects\CarSimulator - Copy\Intermediate\Build\Win64\UE4Editor\Development\CarSimulator\CarSimulatorHud.cpp.obj"
+"C:\Users\Petr\Documents\Unreal Projects\CarSimulator - Copy\Intermediate\Build\Win64\UE4Editor\Development\CarSimulator\CarSimulatorPawn.cpp.obj"
+"C:\Users\Petr\Documents\Unreal Projects\CarSimulator - Copy\Intermediate\Build\Win64\UE4Editor\Development\CarSimulator\CarSimulatorWheelFront.cpp.obj"
+"C:\Users\Petr\Documents\Unreal Projects\CarSimulator - Copy\Intermediate\Build\Win64\UE4Editor\Development\CarSimulator\CarSimulatorWheelRear.cpp.obj"
+"C:\Users\Petr\Documents\Unreal Projects\CarSimulator - Copy\Intermediate\Build\Win64\UE4Editor\Development\CarSimulator\UserBehavior.cpp.obj"
+"C:\Users\Petr\Documents\Unreal Projects\CarSimulator - Copy\Intermediate\Build\Win64\UE4Editor\Development\CarSimulator\UserBehaviorAnalyzer.cpp.obj"
+"C:\Users\Petr\Documents\Unreal Projects\CarSimulator - Copy\Intermediate\Build\Win64\UE4Editor\Development\CarSimulator\CarSimulator.init.gen.cpp.obj"
+"C:\Users\Petr\Documents\Unreal Projects\CarSimulator - Copy\Intermediate\Build\Win64\UE4Editor\Development\CarSimulator\CarSimulatorGameMode.gen.cpp.obj"
+"C:\Users\Petr\Documents\Unreal Projects\CarSimulator - Copy\Intermediate\Build\Win64\UE4Editor\Development\CarSimulator\CarSimulatorHud.gen.cpp.obj"
+"C:\Users\Petr\Documents\Unreal Projects\CarSimulator - Copy\Intermediate\Build\Win64\UE4Editor\Development\CarSimulator\CarSimulatorPawn.gen.cpp.obj"
+"C:\Users\Petr\Documents\Unreal Projects\CarSimulator - Copy\Intermediate\Build\Win64\UE4Editor\Development\CarSimulator\CarSimulatorWheelFront.gen.cpp.obj"
+"C:\Users\Petr\Documents\Unreal Projects\CarSimulator - Copy\Intermediate\Build\Win64\UE4Editor\Development\CarSimulator\CarSimulatorWheelRear.gen.cpp.obj"
+"C:\Users\Petr\Documents\Unreal Projects\CarSimulator - Copy\Intermediate\Build\Win64\UE4Editor\Development\CarSimulator\UserBehavior.gen.cpp.obj"
+"C:\Users\Petr\Documents\Unreal Projects\CarSimulator - Copy\Intermediate\Build\Win64\UE4Editor\Development\CarSimulator\Default.rc2.res"
+/OUT:"C:\Users\Petr\Documents\Unreal Projects\CarSimulator - Copy\Intermediate\Build\Win64\UE4Editor\Development\CarSimulator\UE4Editor-CarSimulator-3329.lib"

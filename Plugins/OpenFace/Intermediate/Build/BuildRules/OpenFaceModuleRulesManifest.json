@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator_OpenFace\\Plugins\\OpenFace\\Source\\ThirdParty\\OpenFaceLibrary\\OpenFaceLibrary.Build.cs",
+		"C:\\Users\\Petr\\Documents\\Unreal Projects\\CarSimulator_OpenFace\\Plugins\\OpenFace\\Source\\OpenFace\\OpenFace.Build.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

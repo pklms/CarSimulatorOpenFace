@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OpenFace-0033.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Petr\Documents\Unreal Projects\CarSimulator_OpenFace\Intermediate\Build\Win64\CarSimulatorEditor\Development\Core\SharedPCH.Core.ShadowErrors.h.obj"
+"C:\Users\Petr\Documents\Unreal Projects\CarSimulator_OpenFace\Plugins\OpenFace\Intermediate\Build\Win64\UE4Editor\Development\OpenFace\OpenFace.cpp.obj"
+"C:\Users\Petr\Documents\Unreal Projects\CarSimulator_OpenFace\Plugins\OpenFace\Intermediate\Build\Win64\UE4Editor\Development\OpenFace\Default.rc2.res"
+/OUT:"C:\Users\Petr\Documents\Unreal Projects\CarSimulator_OpenFace\Plugins\OpenFace\Intermediate\Build\Win64\UE4Editor\Development\OpenFace\UE4Editor-OpenFace-0033.lib"

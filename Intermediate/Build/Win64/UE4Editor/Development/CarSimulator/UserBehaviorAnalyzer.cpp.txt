@@ -1,0 +1,2 @@
+C:\Users\Petr\Documents\Unreal Projects\CarSimulator_OpenFace\Intermediate\Build\Win64\UE4Editor\Development\CarSimulator\Definitions.CarSimulator.h
+C:\Users\Petr\Documents\Unreal Projects\CarSimulator_OpenFace\Source\CarSimulator\UserBehaviorAnalyzer.h

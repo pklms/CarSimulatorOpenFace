@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CarSimulator.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{73F228F4-F874-460A-AA8F-12F3AC7ADEDA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CarSimulator.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CarSimulatorEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.ignore" />
+    <None Include="..\..\CarSimulator.code-workspace" />
+    <None Include="..\..\out.jpg" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{A6E7CA06-FC8E-4981-ABFD-14F1CFF28C83}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{EF9F4283-4CE4-48BC-9531-BF08701E1E15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\OpenFace">
+      <UniqueIdentifier>{1FB4C338-FCA0-4BCF-85D3-A014611FE66A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\OpenFace\Source">
+      <UniqueIdentifier>{DEE5AF20-2ADB-4AE3-8693-AB2B038D5EEE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\OpenFace\Source\OpenFace">
+      <UniqueIdentifier>{2E660C68-1BBD-41E0-B544-A34A370C132D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OpenFace\Source\OpenFace\OpenFace.Build.cs">
+      <Filter>Plugins\OpenFace\Source\OpenFace</Filter>
+    </None>
+    <Filter Include="Plugins\OpenFace\Source\OpenFace\Private">
+      <UniqueIdentifier>{A3E731C9-FF1E-43EC-824E-03C9E2BFC040}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\OpenFace\Source\OpenFace\Private\OpenFace.cpp">
+      <Filter>Plugins\OpenFace\Source\OpenFace\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\OpenFace\Source\OpenFace\Public">
+      <UniqueIdentifier>{4530CEE8-30E4-4D9B-B335-F1833CC23540}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\OpenFace\Source\OpenFace\Public\OpenFace.h">
+      <Filter>Plugins\OpenFace\Source\OpenFace\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\OpenFace\OpenFace.uplugin">
+      <Filter>Plugins\OpenFace</Filter>
+    </None>
+    <Filter Include="Plugins\OpenFace\Resources">
+      <UniqueIdentifier>{65F9938A-9954-4E96-80D5-85816FD7ACD3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OpenFace\Resources\Icon128.png">
+      <Filter>Plugins\OpenFace\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\OpenFace\Source\ThirdParty">
+      <UniqueIdentifier>{05AFC8AF-B315-479B-8F81-2C4B44E089E2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary">
+      <UniqueIdentifier>{58DD1D90-0762-4655-B1E1-39DF62DD15E7}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary\ExampleLibrary.cpp">
+      <Filter>Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary\ExampleLibrary.h">
+      <Filter>Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary\OpenFaceLibrary.Build.cs">
+      <Filter>Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary</Filter>
+    </None>
+    <None Include="..\..\Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary\OpenFaceLibrary.tps">
+      <Filter>Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary</Filter>
+    </None>
+    <Filter Include="Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary\ExampleLibrary">
+      <UniqueIdentifier>{1C5EF7D9-CF19-4120-96A6-6D62611753E3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary\ExampleLibrary\ExampleLibrary.xcodeproj">
+      <UniqueIdentifier>{6A02BC05-D932-469C-8169-7FDBD6F5FEA8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary\ExampleLibrary\ExampleLibrary.xcodeproj\project.pbxproj">
+      <Filter>Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary\ExampleLibrary\ExampleLibrary.xcodeproj</Filter>
+    </None>
+    <Filter Include="Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary\ExampleLibrary.xcworkspace">
+      <UniqueIdentifier>{664F1D47-D3AE-423F-A368-EB07516DC2E1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary\ExampleLibrary.xcworkspace\contents.xcworkspacedata">
+      <Filter>Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary\ExampleLibrary.xcworkspace</Filter>
+    </None>
+    <Filter Include="Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary\Mac">
+      <UniqueIdentifier>{6130F84D-A52E-47F1-9621-2390D651B28C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary\Mac\Release">
+      <UniqueIdentifier>{D89778A4-8666-4AD3-966B-180F973F18A7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary\Mac\Release\libExampleLibrary.dylib">
+      <Filter>Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary\Mac\Release</Filter>
+    </None>
+    <Filter Include="Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary\x64">
+      <UniqueIdentifier>{67601D38-06EA-4394-AA13-872809963714}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary\x64\Release">
+      <UniqueIdentifier>{3A742834-38F8-4466-8CF0-BFF9B7410E28}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary\x64\Release\ExampleLibrary.dll">
+      <Filter>Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary\x64\Release</Filter>
+    </None>
+    <None Include="..\..\Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary\x64\Release\ExampleLibrary.lib">
+      <Filter>Plugins\OpenFace\Source\ThirdParty\OpenFaceLibrary\x64\Release</Filter>
+    </None>
+    <Filter Include="Source\CarSimulator">
+      <UniqueIdentifier>{30C4285D-FC1B-4579-9CAD-1C20A2E723EC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CarSimulator\CarSimulator.Build.cs">
+      <Filter>Source\CarSimulator</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CarSimulator\CarSimulator.cpp">
+      <Filter>Source\CarSimulator</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CarSimulator\CarSimulator.h">
+      <Filter>Source\CarSimulator</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CarSimulator\CarSimulatorGameMode.cpp">
+      <Filter>Source\CarSimulator</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CarSimulator\CarSimulatorGameMode.h">
+      <Filter>Source\CarSimulator</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CarSimulator\CarSimulatorHud.cpp">
+      <Filter>Source\CarSimulator</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CarSimulator\CarSimulatorHud.h">
+      <Filter>Source\CarSimulator</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CarSimulator\CarSimulatorPawn.cpp">
+      <Filter>Source\CarSimulator</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CarSimulator\CarSimulatorPawn.h">
+      <Filter>Source\CarSimulator</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CarSimulator\CarSimulatorWheelFront.cpp">
+      <Filter>Source\CarSimulator</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CarSimulator\CarSimulatorWheelFront.h">
+      <Filter>Source\CarSimulator</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CarSimulator\CarSimulatorWheelRear.cpp">
+      <Filter>Source\CarSimulator</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CarSimulator\CarSimulatorWheelRear.h">
+      <Filter>Source\CarSimulator</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CarSimulator\UserBehavior.cpp">
+      <Filter>Source\CarSimulator</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CarSimulator\UserBehavior.h">
+      <Filter>Source\CarSimulator</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CarSimulator\UserBehaviorAnalyzer.cpp">
+      <Filter>Source\CarSimulator</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CarSimulator\UserBehaviorAnalyzer.h">
+      <Filter>Source\CarSimulator</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
