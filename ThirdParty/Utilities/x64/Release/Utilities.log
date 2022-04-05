@@ -1,0 +1,28 @@
+﻿  stdafx_ut.cpp
+C:\Users\Petr\source\repos\OpenFace\lib\3rdParty\dlib\include\dlib\console_progress_indicator.h(153,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+  ImageCapture.cpp
+  RecorderCSV.cpp
+  RecorderHOG.cpp
+  RecorderOpenFace.cpp
+  RecorderOpenFaceParameters.cpp
+  SequenceCapture.cpp
+  VisualizationUtils.cpp
+  Visualizer.cpp
+  C:\Users\Petr\source\repos\OpenFace\lib\3rdParty\OpenBlas\bin\x64\flang.dll
+  C:\Users\Petr\source\repos\OpenFace\lib\3rdParty\OpenBlas\bin\x64\flangrti.dll
+  C:\Users\Petr\source\repos\OpenFace\lib\3rdParty\OpenBlas\bin\x64\libomp.dll
+  C:\Users\Petr\source\repos\OpenFace\lib\3rdParty\OpenBlas\bin\x64\openblas.dll
+  4 File(s) copied
+  Utilities.vcxproj -> C:\Users\Petr\source\repos\OpenFace\x64\Release\Utilities.lib
+  File not found - Release
+  0 File(s) copied
+  File not found - opencv_ffmpeg410.dll
+  0 File(s) copied
+  0 File(s) copied
+  File not found - opencv_ffmpeg410_64.dll
+  C:\Users\Petr\source\repos\OpenFace\lib\3rdParty\OpenCV\classifiers\haarcascade_frontalface_alt.xml
+  C:\Users\Petr\source\repos\OpenFace\lib\3rdParty\OpenCV\classifiers\haarcascade_frontalface_alt2.xml
+  C:\Users\Petr\source\repos\OpenFace\lib\3rdParty\OpenCV\classifiers\haarcascade_frontalface_alt_tree.xml
+  C:\Users\Petr\source\repos\OpenFace\lib\3rdParty\OpenCV\classifiers\haarcascade_frontalface_default.xml
+  C:\Users\Petr\source\repos\OpenFace\lib\3rdParty\OpenCV\classifiers\haarcascade_profileface.xml
+  5 File(s) copied

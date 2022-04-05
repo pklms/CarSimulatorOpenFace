@@ -1,0 +1,11 @@
+﻿  GazeEstimation.cpp
+C:\Users\Petr\source\repos\OpenFace\lib\3rdParty\dlib\include\dlib\console_progress_indicator.h(153,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+  0 File(s) copied
+  GazeAnalyser.vcxproj -> C:\Users\Petr\source\repos\OpenFace\x64\Debug\GazeAnalyser.lib
+  File not found - Debug
+  0 File(s) copied
+  File not found - opencv_ffmpeg410.dll
+  0 File(s) copied
+  0 File(s) copied
+  File not found - opencv_ffmpeg410_64.dll
+  0 File(s) copied
